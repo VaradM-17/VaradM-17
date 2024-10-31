@@ -23,20 +23,17 @@
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
 - 🌱 Currently learning Servlet, JSP, and Hibernate to deepen my backend development skills.  
   
 
 - ⚡ Fun fact: When I’m not coding, you can find me hiking new trails or experimenting with the latest tech trends!  
-
-
-</td><td valign="top" width="50%">
-
- 
-
-
-</td></tr></table>  
+    </td>
+  </tr>
+</table>  
 
 <br/>  
 
