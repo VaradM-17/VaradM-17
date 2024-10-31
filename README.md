@@ -25,7 +25,7 @@
 ## Rapidfire  
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="60%">
 
 - 🌱 Currently learning Servlet, JSP, and Hibernate to deepen my backend development skills.  
   
