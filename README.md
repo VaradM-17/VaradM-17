@@ -3,11 +3,11 @@
 <h3 align="center">A Passionate Full Stack Java Developer from India</h3>
 
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=VaradM-17&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=VaradM-17&label=Profile%20views&color=0e75b6&style=flat" alt="varadm-17" />
 </p>
 
 ### 👨‍💻 About Me
-I'm a tech enthusiast and lifelong learner on a mission to master software development. Currently, I’m diving into **Java Full Stack development**, focusing on crafting seamless user experiences that leave a lasting impression. My key areas of interest include **Servlet, JSP, and Hibernate** to deepen my backend skills.
+I'm a tech enthusiast and lifelong learner on a mission to master software development. Currently, I’m diving into **Java Full Stack development**, focusing on crafting seamless user experiences that leave a lasting impression. I'm particularly interested in **Servlet, JSP, and Hibernate** to deepen my backend skills.
 
 ✨ I thrive on collaboration and enjoy partnering with like-minded individuals to bring innovative web applications and open-source projects to life. When I'm not coding, you can find me hiking new trails or exploring the latest tech trends.
 
@@ -20,18 +20,21 @@ When I’m not coding, I enjoy hiking new trails and experimenting with the late
 
 ---
 
-## 🛠️ Tech Stack
-<div align="center">
-    <a href="https://www.java.com" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="65" /></a>
-    <a href="https://www.w3schools.com/html/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="65" /></a>
-    <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="65" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="65" /></a>
-    <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="65" /></a>
-    <a href="https://www.postgresql.org" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="65" /></a>
-    <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="65" /></a>
-    <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" height="65" /></a>
-    <a href="https://getbootstrap.com" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" height="65" /></a>
-</div>
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varadmule17) 
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/VaradM-17)
+
+---
+
+# 💻 Tech Stack
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -47,10 +50,10 @@ When I’m not coding, I enjoy hiking new trails and experimenting with the late
     </tr>
 </table>
 
----
-
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=VaradM-17&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
+### 🏆 Notable Achievements
+- **[Achievement 1]**: Description of your achievement here.
+- **[Achievement 2]**: Description of your achievement here.
+- **[Achievement 3]**: Description of your achievement here.
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=VaradM-17&&style=flat-square)
 
