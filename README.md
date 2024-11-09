@@ -1,3 +1,4 @@
+![Header](./"github-header-image.png".png)
 <h1 align="center">Hi 👋, I'm Varad Mule</h1>
 <h3 align="center">A Passionate Full Stack Java Developer from India</h3>
 
