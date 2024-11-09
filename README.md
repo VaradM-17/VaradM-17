@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://ibb.co/txkcpNV" alt="Banner Image" style="width: 100%; height: auto;">
+  <a href="https://ibb.co/txkcpNV"><img src="https://i.ibb.co/rcTM2LD/github-header-image.png" alt="github-header-image" border="0"></a>
 </h1>
 
 <h1 align="center">Hi 👋, I'm Varad Mule</h1>
