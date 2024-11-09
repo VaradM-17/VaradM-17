@@ -1,6 +1,9 @@
+<h1 align="center">
+  <img src="C:\Users\Amita Mule\Downloads\github-header-image.png" alt="Banner Image" style="width: 100%; height: auto;">
+</h1>
+
 <h1 align="center">Hi 👋, I'm Varad Mule</h1>
 <h3 align="center">A Passionate Full Stack Java Developer from India</h3>
-
 
 ### 👨‍💻 About Me
 I'm a tech enthusiast and lifelong learner on a mission to master software development. Currently, I’m diving into **Java Full Stack development**, focusing on crafting seamless user experiences that leave a lasting impression. I'm particularly interested in **Servlet, JSP, and Hibernate** to deepen my backend skills.
@@ -44,4 +47,3 @@ When I’m not coding, I enjoy hiking new trails and experimenting with the late
 </table>
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=VaradM-17&&style=flat-square)
-
