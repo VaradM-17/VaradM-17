@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./VaradHeader.png)
 
 
 ### 👨‍💻 About Me
