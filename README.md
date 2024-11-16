@@ -1,4 +1,4 @@
-![Header](./VaradHeader.png)
+![Header](./Profile Linkedin Banner.png)
 
 
 ### 👨‍💻 About Me
