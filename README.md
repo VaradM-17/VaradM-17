@@ -1,4 +1,4 @@
-![Header](./Profile LinkedIn Banner.png)
+![Header](./BannerWhite.png)
 
 
 ### 👨‍💻 About Me
