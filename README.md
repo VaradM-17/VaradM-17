@@ -1,4 +1,4 @@
-![Header](./Profile Linkedin Banner.png)
+![Header](./Profile LinkedIn Banner.png)
 
 
 ### 👨‍💻 About Me
