@@ -10,7 +10,7 @@ I love learning new things and enjoy working with others to create cool projects
 ### 📫 Connect with Me  
 - [LinkedIn](https://www.linkedin.com/in/varadmule17)  
 - [GitHub](https://github.com/VaradM-17)  
-
+- [Twitter](https://x.com/VaradMule17) 
 ---
 
 ### ⚡ Fun Fact  
