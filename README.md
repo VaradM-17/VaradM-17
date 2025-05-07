@@ -40,11 +40,12 @@ When I’m not coding, I enjoy **hiking**, trying out new gadgets, and diving in
 ---
 
 ### 📂 Featured Projects  
-- 🗂️ **Emplify** – A full-featured employee management system built using **React(Bootstrap)** and **Spring Boot**. It includes features like employee CRUD operations, department handling, and RESTful API integration for seamless data management.
+- 🗂️ **Emplify** – A full-featured employee management system built using **React (Bootstrap)** and **Spring Boot**. It includes employee CRUD operations, department management, and RESTful API integration for efficient backend communication.
 
-- 🗂️ **Todooz** – A task management application developed with **React (Tailwind CSS)** and **Spring Boot**. It supports creating, updating, deleting, and filtering tasks with a sleek, responsive user interface.
+- ✅ **Todooz** – A clean and responsive task management app built with **React (Tailwind CSS)** and **Spring Boot**. It supports task creation, editing, deletion, and filtering with an intuitive UI.
 
-- 🌍 **Portfolio Website** – A personal portfolio website built with **React** and **deployed via Netlify**, featuring project showcases, technology stack, and contact details.
+- 🌍 **Portfolio Website** – A personal portfolio built using **React**, showcasing my projects, skills, and contact details.  
+  🟢 [Live at: varadm-17.netlify.app](https://varadm-17.netlify.app)
 
 ---
 
