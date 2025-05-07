@@ -1,40 +1,54 @@
 ![Header](./BannerWhite.png)
 
-### 👨‍💻 About Me  
-Hi, I’m **Varad Mule**, a **Full Stack Java Developer** passionate about building simple and effective applications. I focus on **Spring**, **Spring Boot**, and **Hibernate** for backend development and use **Angular**, **HTML**, **CSS**, and **JavaScript** for the frontend.  
+<h3 align="center">🚀 Full Stack Java Developer | React & Spring Boot Enthusiast</h3>
 
-I love learning new things and enjoy working with others to create cool projects.  
+---
+
+### 👨‍💻 About Me  
+Hi, I’m **Varad Mule**, a passionate **Full Stack Java Developer** who enjoys building simple, effective, and scalable applications.  
+I specialize in **Spring**, **Spring Boot**, and **Hibernate** on the backend, and love crafting responsive UIs using **React**, **HTML**, **CSS**, and **JavaScript** on the frontend.
+
+I’m always eager to learn new technologies and collaborate on impactful projects.
 
 ---
 
 ### 📫 Connect with Me  
 - [LinkedIn](https://www.linkedin.com/in/varadmule17)  
 - [GitHub](https://github.com/VaradM-17)  
-- [Twitter](https://x.com/VaradMule17) 
+- [Twitter](https://x.com/VaradMule17)  
+
 ---
 
 ### ⚡ Fun Fact  
-When I’m not coding, I enjoy hiking and exploring new technology!  
+When I’m not coding, I enjoy **hiking**, trying out new gadgets, and diving into the latest tech trends!
 
 ---
 
-### 🛠️ Tools I Use  
+### 🛠️ Tools & Technologies  
 <div align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="50" style="margin: 15px;" />
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" height="50" style="margin: 15px;" />
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" height="60" style="margin: 15px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="50" style="margin: 15px;" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" style="margin: 15px;" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="50" style="margin: 15px;" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="50" style="margin: 15px;" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="50" style="margin: 15px;" />
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="50" style="margin: 15px;" />
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="50" style="margin: 15px;" />
-
 </div>
 
 ---
 
-### 📊 My GitHub Stats  
+### 📂 Featured Projects  
+- 🗂️ **Emplify** – A full-featured employee management system built using **React(Bootstrap)** and **Spring Boot**. It includes features like employee CRUD operations, department handling, and RESTful API integration for seamless data management.
+
+- 🗂️ **Todooz** – A task management application developed with **React (Tailwind CSS)** and **Spring Boot**. It supports creating, updating, deleting, and filtering tasks with a sleek, responsive user interface.
+
+- 🌍 **Portfolio Website** – A personal portfolio website built with **React** and **deployed via Netlify**, featuring project showcases, technology stack, and contact details.
+
+---
+
+### 📊 GitHub Stats  
 <table>
     <tr>
         <td valign="top" width="50%">
