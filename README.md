@@ -1,64 +1,62 @@
-![Header](./BannerWhite.png)
+# 👋 Hi, I’m Varad Mule  
 
-<h3 align="center">🚀 Full Stack Java Developer | React & Spring Boot Enthusiast</h3>
-
----
-
-### 👨‍💻 About Me  
-Hi, I’m **Varad Mule**, a passionate **Full Stack Java Developer** who enjoys building simple, effective, and scalable applications.  
-I specialize in **Spring**, **Spring Boot**, and **Hibernate** on the backend, and love crafting responsive UIs using **React**, **HTML**, **CSS**, and **JavaScript** on the frontend.
-
-I’m always eager to learn new technologies and collaborate on impactful projects.
+<img src="./BannerWhite.png" width="100%" alt="Banner"/>
 
 ---
 
-### 📫 Connect with Me  
+## 👨‍💻 About Me  
+I’m a **Full Stack Java Developer** passionate about building **secure, scalable, and user-friendly applications**.  
+I work across the stack — from designing **REST APIs with Spring Boot** to crafting clean **React UIs**.  
+
+🔒 Currently focusing on **Spring Security**, **JWT authentication**, and advanced **backend integrations**.  
+⚡ I enjoy learning, collaborating, and creating meaningful projects that solve real problems.  
+
+---
+### 🛠️ Skills & Technologies  
+
+<p align="center">
+  <!-- Row 1 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="60" />
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" />
+</p>
+
+<p align="center">
+  <!-- Row 2 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="60" />
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" height="40" />
+</p>
+
+<p align="center">
+  <!-- Row 3 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" alt="Hibernate" width="60" />
+</p>
+
+
+
+## 📂 Featured Projects  
+
+- 🗂️ **Emplify** – Employee management system with **Spring Boot + React (Bootstrap)**.  
+- ✅ **Todooz** – Task management app with **Spring Boot, React, JWT authentication**.  
+- ✍️ **Blog API** – Secure backend with **Spring Security, JWT, role-based access, pagination, sorting**.  
+- 🌐 **Portfolio Website** – Personal site built in React.  
+  🔗 [Live Demo](https://varadm-17.netlify.app)  
+
+---
+
+## 📫 Connect with Me  
 - [LinkedIn](https://www.linkedin.com/in/varadmule17)  
 - [GitHub](https://github.com/VaradM-17)  
 - [Twitter](https://x.com/VaradMule17)  
 
 ---
-
-### ⚡ Fun Fact  
-When I’m not coding, I enjoy **hiking**, trying out new gadgets, and diving into the latest tech trends!
-
----
-
-### 🛠️ Tools & Technologies  
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" style="margin: 10px;" />
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" style="margin: 10px;" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" style="margin: 10px;" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" style="margin: 10px;" />
-</div>
-
----
-
-### 📂 Featured Projects  
-- 🗂️ **Emplify** – A full-featured employee management system built using **React (Bootstrap)** and **Spring Boot**. It includes employee CRUD operations, department management, and RESTful API integration for efficient backend communication.
-
-- ✅ **Todooz** – A clean and responsive task management app built with **React (Tailwind CSS)** and **Spring Boot**. It supports task creation, editing, deletion, and filtering with an intuitive UI.
-
-- 🌍 **Portfolio Website** – A personal portfolio built using **React**, showcasing my projects, skills, and contact details.  
-  🟢 [Live at: varadm-17.netlify.app](https://varadm-17.netlify.app)
-
----
-
-### 📊 GitHub Stats  
-<table>
-    <tr>
-        <td valign="top" width="50%">
-            <img src="https://github-readme-stats.vercel.app/api?username=VaradM-17&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-        </td>
-        <td valign="top" width="50%">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaradM-17&hide_border=true&layout=compact" align="left" style="width: 100%" />
-        </td>
-    </tr>
-</table>
-
-![Profile views counter](https://komarev.com/ghpvc/?username=VaradM-17&&style=flat-square)
